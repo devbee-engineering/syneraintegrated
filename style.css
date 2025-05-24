@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   height: 100vh;
   overflow: hidden;            /* kill any scrollbars */
-  background: #0f194e;
+  background: #151a54;
   color: #fff;
   font-family: 'Segoe UI', sans-serif;
   display: flex;
